@@ -15,8 +15,6 @@
 6. [Pull Request](#pull-request)
     1. [PR Title](#pr-title)
     2. [PR Description Template](#pr-description-template)
-    3. [PR Example](#pr-example)
-    4. [PR Etiquette](#pr-etiquette)
 7. [Jira Issue](#jira-issue)
     1. [Story Issue](#story)
     2. [Bug Issue](#bug)
